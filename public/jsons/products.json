@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Immersion Blender",
+            "price": "$30.00",
+            "color": "Stainless Steel",
+            "description": "This immersion blender is perfect for blending soups, smoothies, and more.",
+            "image_url": "https://tinyurl.com/d5mne4nf"
+        },
+        {
+            "id": 2,
+            "name": "Stand Mixer",
+            "price": "$150.00",
+            "color": "Red",
+            "description": "This stand mixer is great for making dough, whipping cream, and more.",
+            "image_url": "https://tinyurl.com/hht8w4ap"
+        },
+        {
+            "id": 3,
+            "name": "Toaster Oven",
+            "price": "$60.00",
+            "color": "Black",
+            "description": "This toaster oven is perfect for toasting bread, baking small dishes, and more.",
+            "image_url": "https://tinyurl.com/2tee88sj"
+        },
+        {
+            "id": 4,
+            "name": "Air Fryer",
+            "price": "$100.00",
+            "color": "Silver",
+            "description": "This air fryer is great for frying foods with little to no oil.",
+            "image_url": "https://tinyurl.com/2mkv74rw"
+        },
+        {
+            "id": 5,
+            "name": "Slow Cooker",
+            "price": "$40.00",
+            "color": "White",
+            "description": "This slow cooker is perfect for cooking stews, soups, and more.",
+            "image_url": "https://tinyurl.com/3c3bvfa3"
+        },
+        {
+            "id": 6,
+            "name": "Food Processor",
+            "price": "$60.00",
+            "color": "Black",
+            "description": "This food processor is great for chopping, grinding, and pureeing foods.",
+            "image_url": "https://tinyurl.com/37uerkv5"
+        },
+        {
+            "id": 7,
+            "name": "Rice Cooker",
+            "price": "$25.00",
+            "color": "White",
+            "description": "This rice cooker is perfect for cooking rice, quinoa, and other grains.",
+            "image_url": "https://tinyurl.com/bddn3v2z"
+        },
+        {
+            "id": 8,
+            "name": "Blender",
+            "price": "$80.00",
+            "color": "Silver",
+            "description": "This blender is perfect for making smoothies, soups, and more.",
+            "image_url": "https://tinyurl.com/mr477sss"
+        },
+        {
+            "id": 9,
+            "name": "Juicer",
+            "price": "$100.00",
+            "color": "Red",
+            "description": "This juicer is great for making fresh juice from fruits and vegetables.",
+            "image_url": "https://tinyurl.com/26wk8jnd"
+        },
+        {
+            "id": 10,
+            "name": "Bread Maker",
+            "price": "$70.00",
+            "color": "White",
+            "description": "This bread maker is perfect for making homemade bread.",
+            "image_url": "https://tinyurl.com/mry2e3av"
+        },
+        {
+            "id": 11,
+            "name": "Ice Cream Maker",
+            "price": "$50.00",
+            "color": "Blue",
+            "description": "This ice cream maker is perfect for making homemade ice cream.",
+            "image_url": "https://tinyurl.com/4358zre7"
+        },
+        {
+            "id": 12,
+            "name": "Electric Kettle",
+            "price": "$30.00",
+            "color": "Stainless Steel",
+            "description": "This electric kettle is perfect for quickly boiling water.",
+            "image_url": "https://tinyurl.com/yfvk3sf7"
+        },
+        {
+            "id": 13,
+            "name": "Popcorn Maker",
+            "price": "$25.00",
+            "color": "Red",
+            "description": "This popcorn maker is perfect for making homemade popcorn.",
+            "image_url": "https://tinyurl.com/m9yu2xez"
+        },
+        {
+            "id": 14,
+            "name": "Waffle Maker",
+            "price": "$40.00",
+            "color": "Black",
+            "description": "This waffle maker is perfect for making homemade waffles.",
+            "image_url": "https://images-na.ssl-images-amazon.com/images/I/61f9c7GpUEL.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Crock Pot",
+            "price": "$50.00",
+            "color": "White",
+            "description": "This crock pot is perfect for cooking stews, soups, and more.",
+            "image_url": "https://i5.walmartimages.com/asr/6f8e277e-e1cf-4204-a569-711161003807.6a01a4ad052fc9c16cb95d91b2307b5c.jpeg"
+        },
+        {
+            "id": 16,
+            "name": "Egg Cooker",
+            "price": "$20.00",
+            "color": "Yellow",
+            "description": "This egg cooker is perfect for boiling and steaming eggs.",
+            "image_url": "https://i5.walmartimages.com/asr/f6d1c181-c2a6-4154-ba74-d1497d5ba634.57de88531238788329ce3ea9382a398b.jpeg"
+        },
+        {
+            "id": 17,
+            "name": "Grill",
+            "price": "$120.00",
+            "color": "Black",
+            "description": "This grill is perfect for cooking burgers, steaks, and more.",
+            "image_url": ""
+        },
+        {
+            "id": 18,
+            "name": "Deep Fryer",
+            "price": "$60.00",
+            "color": "Silver",
+            "description": "This deep fryer is perfect for frying foods.",
+            "image_url": "https://m.media-amazon.com/images/I/717GnADy0xL._SL1498_.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Pressure Cooker",
+            "price": "$80.00",
+            "color": "Black",
+            "description": "This pressure cooker is perfect for cooking stews, soups, and more.",
+            "image_url": "https://cdn.shopify.com/s/files/1/0589/3763/9094/files/pc-60_1.png?v=1629710517"
+        },
+        {
+            "id": 20,
+            "name": "Sous Vide",
+            "price": "$100.00",
+            "color": "Silver",
+            "description": "This sous vide is perfect for cooking meats, fish, and more.",
+            "image_url": "https://cdn.shopify.com/s/files/1/0619/7487/2253/files/Immersion_Circulator.jpg?v=1666884999&width=1500"
+        },
+        {
+            "id": 21,
+            "name": "Microwave",
+            "price": "$50.00",
+            "color": "White",
+            "description": "This microwave is perfect for quickly heating up food.",
+            "image_url": "https://www.ikea.com/us/en/images/products/huvudsaklig-built-in-microwave-stainless-steel-color__0912383_pe783429_s5.jpg?f=s"
+        },
+        {
+            "id": 22,
+            "name": "Dishwasher",
+            "price": "$300.00",
+            "color": "Stainless Steel",
+            "description": "This dishwasher is perfect for cleaning dishes.",
+            "image_url": "https://m.media-amazon.com/images/I/61QjMIm6qXL.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Coffee Grinder",
+            "price": "$20.00",
+            "color": "Black",
+            "description": "This coffee grinder is perfect for grind your own coffee beans.",
+            "image_url": "https://pyxis.nymag.com/v1/imgs/795/18d/7136b585fe31ec58710d9a9437f9bc67a3-baratza-encore-grinder.rsquare.w600.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Espresso Machine",
+            "price": "$200.00",
+            "color": "Silver",
+            "description": "This espresso machine is perfect for making your own espresso.",
+            "image_url": "https://assets.bonappetit.com/photos/61e755ce6b6fe523b0365397/master/pass/20220112%20Best%20Coffee%20Maker%20LEDE.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Tea Kettle",
+            "price": "$15.00",
+            "color": "Red",
+            "description": "This tea kettle is perfect for boiling water.",
+            "image_url": "https://i5.walmartimages.com/asr/1c316732-5524-42ed-abad-51f3e2094060_2.c4f11c22098983856c97e782b38cf8e3.jpeg"
+        },
+        {
+            "id": 26,
+            "name": "Citrus Juicer",
+            "price": "$20.00",
+            "color": "Yellow",
+            "description": "This citrus juicer is perfect for juicing lemons, limes, and oranges.",
+            "image_url": "https://img.fruugo.com/product/8/78/184424788_max.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Food Scale",
+            "price": "$10.00",
+            "color": "White",
+            "description": "This food scale is perfect for measuring ingredients.",
+            "image_url": "https://img.fruugo.com/product/4/07/188724074_max.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Kitchen Thermometer",
+            "price": "$5.00",
+            "color": "Silver",
+            "description": "This kitchen thermometer is perfect for measuring the temperature of food.",
+            "image_url": "https://m.media-amazon.com/images/I/81rVbdxgeEL.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Kitchen Timer",
+            "price": "$3.00",
+            "color": "White",
+            "description": "This kitchen timer is perfect for timing your cooking and baking.",
+            "image_url": "https://www.ketoconnect.net/wp-content/uploads/2022/07/hands-holding-stylish-kitchen-timer.png"
+        },
+        {
+            "id": 30,
+            "name": "Measuring Cups and Spoons",
+            "price": "$10.00",
+            "color": "Silver",
+            "description": "These measuring cups and spoons are perfect for measuring ingredients.",
+            "image_url": "https://m.media-amazon.com/images/I/71aNFn0TpAL.jpg"
+        }
+    ]
+}
