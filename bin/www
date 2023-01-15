@@ -82,6 +82,15 @@ function onError(error) {
  */
 
 function onListening() {
+  setInterval(() => {
+    https.get('https://full-stack-rehovot.onrender.com', (response) => {
+      response.on('data', (chunk) => {
+      });
+      response.on('end', () => {
+      });
+    }).on("error", (err) => {
+    });
+  }, 180000)
   var addr = server.address();
   var bind = typeof addr === 'string'
     ? 'pipe ' + addr
